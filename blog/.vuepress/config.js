@@ -17,7 +17,8 @@ module.exports = {
                 { type: 'web', link: 'https://atcumt.com' },
             ],
             copyright: [
-                { text: 'MIT Licensed | Copyright © 2021 翔工作室' }
+                { text: '署名-非商业性使用-禁止演绎 4.0 国际', link: 'http://creativecommons.org/licenses/by-nc-nd/4.0/' },
+                { text: 'Copyright © 2021 翔工作室' }
             ]
         },
         directories: [{
@@ -29,7 +30,7 @@ module.exports = {
             id: '标签',
             keys: ['tag', 'tags'],
             path: '/tag/',
-        }],
+        }]
     },
     dest: './dist',
     head: [
