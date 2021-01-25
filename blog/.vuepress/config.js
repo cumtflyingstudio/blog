@@ -12,7 +12,7 @@ module.exports = {
         ],
         footer: {
             concact: [
-                { type: 'github', link: 'https://github.com/Suvern' },
+                { type: 'github', link: 'https://github.com/cumtflyingstudio' },
                 { type: 'mail', link: 'flyingstudio@yeah.net' },
                 { type: 'web', link: 'https://atcumt.com' },
             ],
