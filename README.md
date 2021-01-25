@@ -32,6 +32,8 @@
 
 - Markdown 中的图片请先上传至图床后再添加，使用本地 url 会导致图片失效
 
+- commit 信息填本次添加或更新的博客标题，方便排查故障
+
 ## 小贴士
 
 ### 关于 Markdown 编辑器
@@ -60,6 +62,11 @@ $ date +%s
 ```javascript
 Math.round(new Date() / 1000)
 ```
+
+**懒人选项**
+
+点这里：
+[时间戳](https://tool.lu/timestamp/)
 
 ### 我想提交自己的个人博客链接
 
