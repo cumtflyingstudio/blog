@@ -1,0 +1,20 @@
+component: website
+name: flyingstudio-blog
+app: flyingstudio-blog
+
+inputs:
+  src:
+    root: ./
+    src: ./dist
+    index: index.html
+    websitePath: ./
+  region: ap-guangzhou
+  protocol: http
+  hosts:
+    - host: blog.atcumt.com
+      autoRefresh: true
+      https:
+        switch: on
+        http2: on
+        certInfo:
+          certId: 'jrIgtWH1'

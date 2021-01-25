@@ -1,0 +1,15 @@
+{
+    "name": "studio-blog",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "wangzhaojun",
+    "license": "MIT",
+    "scripts": {
+        "docs:dev": "vuepress dev blog",
+        "docs:build": "vuepress build blog"
+    },
+    "devDependencies": {
+        "@vuepress/theme-blog": "^2.3.3",
+        "vuepress": "^1.8.0"
+    }
+}
