@@ -29,6 +29,7 @@
 | 张肖飞 | [八一](https://www.cnblogs.com/bay1/)                 |
 | 李鑫   | [Victormomo 的博客](https://blog.csdn.net/victormomo) |
 | 李驰   | [Icestains](http://icestains.top/#blog)               |
+| 汤小亮 | [Tsailor](https://tsailor.github.io)                  |
 
 ## 17 级
 
@@ -48,9 +49,3 @@
 | 姓名   | 博客地址                                 |
 | ------ | ---------------------------------------- |
 | 吴桂锋 | [MPS 的个人博客](https://blog.yysy.xyz/) |
-
-## null
-
-| 姓名 | 博客地址                             |
-| ---- | ------------------------------------ |
-| null | [Tsailor](https://tsailor.github.io) |
