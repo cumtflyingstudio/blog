@@ -1,8 +1,7 @@
 # 工作室技术博客
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
-
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
+![](https://img.shields.io/badge/license-GPL-blue)
 ![](https://github.com/cumtflyingstudio/blog/workflows/Tencent%20Serverless/badge.svg)
 
 ## 技术栈
