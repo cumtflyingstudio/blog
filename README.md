@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/license-GPL-blue)
 ![](https://github.com/cumtflyingstudio/blog/workflows/Tencent%20Serverless/badge.svg)
 
+[署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## 技术栈
 
 博客用 Serverless 部署在[blog.atcumt.com](https://blog.atcumt.com)
