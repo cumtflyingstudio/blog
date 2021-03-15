@@ -1,4 +1,4 @@
-name: deploy tencent serverless
+name: Tencent Serverless
 
 on:
   push:

@@ -3,7 +3,7 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-![](https://github.com/cumtflyingstudio/blog/workflows/sls/badge.svg)
+![](https://github.com/cumtflyingstudio/blog/workflows/Tencent%20Serverless/badge.svg)
 
 ## 技术栈
 
