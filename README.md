@@ -6,7 +6,9 @@
 
 基于`VuePress`和`@vuepress/theme-blog`插件构建页面
 
-后台打算用`Golang`写一个任务队列，实现自动和手动更新
+~~后台打算用`Golang`写一个任务队列，实现自动和手动更新~~
+
+已用`GitHub Actions`配置自动部署（真香）
 
 ## 使用方法
 
@@ -18,7 +20,7 @@
 
 4. commit 后 push
 
-5. 等待后台脚本自动构建（每天一次），如果着急可以联系王昭君手动构建
+5. 等待Github Actions自动构建，部署结果在`Actions`选项里查看
 
 ## 使用规范
 
