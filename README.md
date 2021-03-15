@@ -1,5 +1,10 @@
 # 工作室技术博客
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+
+![](https://github.com/cumtflyingstudio/blog/workflows/sls/badge.svg)
+
 ## 技术栈
 
 博客用 Serverless 部署在[blog.atcumt.com](https://blog.atcumt.com)
@@ -28,7 +33,7 @@
 
 - .md 文件放在`/blog/_posts`目录下，为避免混乱，命名使用当前的**时间戳**，命名好的文件不要随意修改，否则不利于永久链接
 
-- 务必书写合理的 title、tags、author 等头部信息，以便检索和归档
+- 务必书写合理的 title、tags、author 等头部信息，以便检索和归档（**看下面的示例**）
 
 - 书写你认为有价值的内容，避免水文和一些不明意义的内容
 

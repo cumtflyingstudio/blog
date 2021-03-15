@@ -1,19 +1,13 @@
+---
 title: 矿小助
-
 date: 2021-3-15
-
 tags:
-
 	- 爬虫
 	- Flask
-
 author: 吕迎朝
-
 location: 徐州
-
 summary: 矿小助的实现思路
-
-
+---
 
 截止2021/3/4学校的单点登录全面迁移至[融合门户](http://authserver.cumt.edu.cn/authserver/login?service=http%3A//portal.cumt.edu.cn/casservice)
 我们的[官网](http://kxz.atcumt.com/)
