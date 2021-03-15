@@ -11,18 +11,17 @@
 
 ## 代码和产品
 
-[Github主页](https://github.com/cumtflyingstudio)，包含一些学习课程和工作室已开源的代码
+- [工作室官网](https://atcumt.com)
+
+- [矿小助](https://kxz.atcumt.com) - 专为矿大人设计的
+校园工具类App
+
+- [Github主页](https://github.com/cumtflyingstudio) - 包含一些学习课程和工作室已开源的代码
 
 
-产品交流QQ群：[839372371](https://jq.qq.com/?_wv=1027&k=uyoNnDbT)
+- 产品交流QQ群：[839372371](https://jq.qq.com/?_wv=1027&k=uyoNnDbT)
 
 <a href="https://imgchr.com/i/BlhOQ1"><img src="https://s1.ax1x.com/2020/10/28/BlhOQ1.jpg" alt="BlhOQ1.jpg" border="0" width=260/></a>
-
-## 联系我们
-
-招新QQ群：[957634136](https://jq.qq.com/?_wv=1027&k=4S2Oq5HX)
-
-<a href="https://imgchr.com/i/Bl4JmV"><img src="https://s1.ax1x.com/2020/10/28/Bl4JmV.jpg" alt="Bl4JmV.jpg" border="0" width=260/></a>
 
 
 ## 成员
