@@ -51,3 +51,9 @@
 | 吴桂锋 | [MPS 的个人博客](https://blog.yysy.xyz/) |
 | 吕迎朝 | [lyz](https://www.yuque.com/boopo)       |
 
+## 20 级
+
+| 姓名   | 博客地址                                 |
+| ------ | ---------------------------------------- |
+| 郝栋贺 | [haorical 的个人博客](https://haorical.github.io/) |
+
