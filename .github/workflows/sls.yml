@@ -12,7 +12,7 @@ jobs:
       - name: clone local repository
         uses: actions/checkout@v3
       - name: install serverless
-        run: sudo npm install -g serverless
+        run: sudo npm i -g serverless-cloud-framework
       - name: install dependency
         run: npm install
       - name: build
