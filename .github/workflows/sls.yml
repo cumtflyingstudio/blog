@@ -18,7 +18,7 @@ jobs:
       - name: build
         run: npm run docs:build
       - name: deploy serverless
-        run: sls deploy --debug
+        run: scf deploy --debug
         env:
           STAGE: dev
           SERVERLESS_PLATFORM_VENDOR: tencent
