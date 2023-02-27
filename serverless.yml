@@ -2,6 +2,7 @@ component: website
 name: flyingstudio-blog
 app: flyingstudio-blog
 
+
 inputs:
   src:
     root: ./
@@ -9,6 +10,9 @@ inputs:
     index: index.html
     websitePath: ./
   region: ap-guangzhou
+  bucketName: my-bucket-8vcp95a
+  isAutoCiDeploy: false
+  replace: false
   protocol: http
   hosts:
     - host: blog.atcumt.com
